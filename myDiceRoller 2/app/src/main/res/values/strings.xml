@@ -1,0 +1,8 @@
+<resources>
+    <string name="myDiceRoller">myDiceRoller</string>
+    <string name="roll">Roll</string>
+    <string name="roll_dice">Roll the dice!</string>
+    <string name="total">Total:</string>
+    <string name="reset">Reset</string>
+    <string name="die_image">Die Image</string>
+</resources>
